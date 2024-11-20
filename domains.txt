@@ -1,0 +1,15 @@
+# Заблокированные домены в России
+# Формат: один домен на строку
+
+# Социальные сети
+facebook.com
+instagram.com
+twitter.com
+
+# Новостные ресурсы
+meduza.io
+bbc.com
+dw.com
+
+# Прочие сервисы
+linkedin.com
