@@ -1,5 +1,5 @@
-# Заблокированные домены в России
-# Формат: один домен на строку
+# Blocked domains in Russia
+# Format: one domain per line
 
-# Тестовый домен
+# Test domain
 whatismyipaddress.com
